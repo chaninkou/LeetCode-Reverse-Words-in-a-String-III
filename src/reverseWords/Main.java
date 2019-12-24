@@ -8,6 +8,6 @@ public class Main {
 		
 		FindReverseWordsOfStringFunction solution = new FindReverseWordsOfStringFunction();
 		
-		
+		System.out.println("Solution: " + solution.reverseWords(s));
 	}
 }
