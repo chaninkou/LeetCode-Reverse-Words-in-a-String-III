@@ -1,4 +1,4 @@
-package reverseWords;
+package leetcode557;
 
 public class FindReverseWordsOfStringFunction {
     public String reverseWords(String s) {
